@@ -1,0 +1,47 @@
+body {
+	margin: auto;
+	cursor: alias;
+}
+.header {
+	background-color: rgb(167, 142, 167);
+	text-align: center;
+	padding: 30px;
+	overflow: auto; 
+}
+.container1{
+	background-color: rebeccapurple;
+	text-align: center;
+}
+.container2 {
+	background-color: royalblue;
+	text-align: center;
+	width: 90%;
+
+}
+ol {
+	list-style-type: upper-alpha;
+  }
+th,
+td {
+	border: 2px dotted lightpink;
+}
+.footer {
+	text-align: center;
+	margin: 20px;
+}
+h2 {
+	text-align: center;
+	color: rgb(52, 193, 127);
+}
+table {
+	border: 5px double greenyellow;
+	font-size: 17px;
+	width: auto;
+}
+hr {
+	color: red;
+}
+q {
+	font-style: italic;
+	color: rgb(14, 23, 103);
+}
